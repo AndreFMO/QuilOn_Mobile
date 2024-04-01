@@ -12,7 +12,7 @@ Este repositório é dedicado ao E-commerce QuilOn.
 1. Clone o projeto usando o *Git Bash* com o seguinte comando:
 
     ```bash
-    git clone https://github.com/Eliz-ama/QuilOn_Mobile.git
+    git clone https://github.com/AndreFMO/QuilOn_Mobile.git
     ```
 
 
