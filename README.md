@@ -3,7 +3,7 @@
 ## 🟡 Repositório: E-commerce QuilOn
 
 
-Este repositório é dedicado ao E-commerce QuilOn.
+Este repositório é dedicado ao E-commerce QuilOn. 
 
 
 ### Para executar este projeto, siga as instruções abaixo:
